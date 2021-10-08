@@ -1,5 +1,5 @@
 def func(a,b):
-    return a+b+4
+    return a+b+30
 
 def func2(a,b)
     return a+b+b+b
