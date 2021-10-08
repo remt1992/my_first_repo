@@ -6,4 +6,5 @@ def func2(a,b)
 
 def func4(a,b)
     return b + a +a +a +a + a
-    
+def func5(a,b,c)
+    return b + a + a + a +a + a + c + c
